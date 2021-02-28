@@ -1,2 +1,3 @@
 # Resume
-My Resume
+
+See [resume.yml](resume.yml).

@@ -9,23 +9,24 @@
 
 ### Proficient
 
-- Communication
-- Learning
 - Semantic, well-structured HTML
 - Styling with CSS and SCSS
 - JavaScript
 - Django web framework
+- Python (web dev)
 - Angular, TypeScript
 - AngularJS
 - Writing front-end build pipelines with various tools including Webpack, Gulp, Parcel
+- Communication
+- Learning
 
 ### Competent
 
+- Python - data analysis
 - data visualization using D3 and libraries which use D3 under the hood
 - reactive programming with RxJS
 - SQL databases - Postgres and MS SQL Server
 functional:
-- using python for data processing with pandas, sometimes with geopandas for geospatial manipulation.
 - .NET web development using MVC and WebAPI
 
 ## Experience
